@@ -30,3 +30,6 @@ Conclusion:
 - Based on the metrics, **Random Forest** shows the best overall performance, with the highest accuracy and F1-score.
 - **Logistic Regression** and **SVM** also perform well, while **Decision Tree** is slightly behind.
 
+
+![image](https://github.com/user-attachments/assets/ec6514e5-5d33-4679-acfb-fed2eef10ae2)
+
