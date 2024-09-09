@@ -2,9 +2,15 @@
 
 Name:- P.Lokeswar
 
+Company:-CODTECH IT SOLUTIONS
 
+#ID:-CT04DS7476
 
+#Domain:- Python Programming
 
+#Duration:-August to September 2024
+
+Mentor:- Neela Santhosh Kumar
 
 
 To evaluate the performance of AI models and compare them using appropriate evaluation metrics, we follow these steps:
